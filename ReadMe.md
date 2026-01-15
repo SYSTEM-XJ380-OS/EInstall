@@ -57,9 +57,9 @@ SetMainAppFile=exe
 ```ini
 [1.0没加的配置项]
 ;是否成为在线安装程式
-SetIfOnline=false
+SetIfOnlineSetup=false
 ;在线安装程式下载Url
-SetOnlineDownloadUrl=https://system-xj380-os.github.io/aaa/aaa.zip
+SetOnlineSetupDownloadUrl=https://system-xj380-os.github.io/aaa/aaa.zip
 ;是否在安装结束后运行脚本（添加到程式注册项）
 SetIfDoneRunBat=false
 ;脚本名称
@@ -67,3 +67,4 @@ SetDoneRunBatName=Base
 
 ```
 HAHAHA
+
