@@ -13,9 +13,9 @@
 EInstall 1.0 
 由LaoDay(SYSTEM-XJ380-OS)在 2026/1/15 编写
 ###### 励志为人民们编写比 NSIS 还要
-* 小巧
-* 优雅
-* 语法简单
+> * 小巧
+> * 优雅
+> * 语法简单
 的安装程式
 ### LaoDay 听到了人民的声音!
 (其实就是 LaoDay 觉得用NSIS太麻烦了)
@@ -67,4 +67,5 @@ SetDoneRunBatName=Base
 
 ```
 HAHAHA
+
 
